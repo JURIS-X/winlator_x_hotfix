@@ -18,7 +18,10 @@ dxvk-2.4.1.tzst
 dxvk-2.4.1.123.tzst
 dxvk-2.4.1.293.tzst
 dxvk-2.5.1.2.tzst
+dxvk-2.5.2.1.tzst
 dxvk-2.5.2.tzst
 dxvk-2.5.3.0.tzst
+dxvk-2.5.3.1.tzst
+dxvk-2.5.3.tzst
 dxvk-2.6.tzst
 dxvk-2.6.2.tzst
