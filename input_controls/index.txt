@@ -51,3 +51,12 @@ Unepic.icp
 Wolfenstein.icp
 Xanadu Next.icp
 Ys Origin.icp
+Afterburn.icp
+GTA SA.icp
+Just Cause 2.icp
+Keyboard QWERTY.icp
+NFS MW 2012 (Keyboard).icp
+NFS MW 2012.icp
+Quadro Racing (ATV).icp
+Resident Evil 5.icp
+The Killing Antidote.icp
